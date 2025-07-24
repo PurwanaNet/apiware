@@ -9,14 +9,8 @@ package id.co.itasoft.net.purwana.apiware;
  * @author Angga Purwana
  */
 import java.io.*;
-import java.net.HttpURLConnection;
 import java.net.URI;
-import java.net.URL;
-import java.net.URLEncoder;
-import java.util.LinkedHashMap;
 import java.util.Map;
-import java.util.logging.Level;
-import java.util.logging.Logger;
 import java.nio.charset.StandardCharsets;
 import org.apache.http.HttpEntity;
 import org.apache.http.client.methods.CloseableHttpResponse;
@@ -135,6 +129,7 @@ public class Apiware {
     }
 
     ///helper:
+    /*
     private String encodeUrlParams(Map<String, String> params) throws UnsupportedEncodingException {
         StringBuilder encoded = new StringBuilder();
         for (Map.Entry<String, String> entry : params.entrySet()) {
@@ -159,7 +154,7 @@ public class Apiware {
         return sb.toString();
     }
 
-    /*
+    
     public String getToken(String [] requiredFieldsForGenerateToken) {
         try {
             fetchToken(requiredFieldsForGenerateToken);

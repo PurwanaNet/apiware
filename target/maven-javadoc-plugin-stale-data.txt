@@ -20,13 +20,13 @@
 -docencoding
 'UTF-8'
 -doctitle
-'Apiware 1.0.2 API'
+'Apiware 1.0.3 API'
 -linkoffline
 'https://docs.oracle.com/javase/8/docs/api' 'C:/_WORKSPACE/ITASOFT/Project/OFFICE/RnD/java-libs/apiware/target/javadoc-bundle-options'
 -use
 -version
 -windowtitle
-'Apiware 1.0.2 API'
+'Apiware 1.0.3 API'
 id.co.itasoft.net.purwana.apiware
 'C:/_WORKSPACE/ITASOFT/Project/OFFICE/RnD/java-libs/apiware/src/main/java/id/co/itasoft/net/purwana/apiware/Apiware.java'
 'C:/_WORKSPACE/ITASOFT/Project/OFFICE/RnD/java-libs/apiware/src/main/java/id/co/itasoft/net/purwana/apiware/ApiwareRequest.java'
@@ -39,14 +39,14 @@ C:\Users\User\.m2\repository\commons-logging\commons-logging\1.2\commons-logging
 C:\Users\User\.m2\repository\commons-codec\commons-codec\1.11\commons-codec-1.11.jar = 1646979999474
 C:\Users\User\.m2\repository\org\apache\httpcomponents\httpmime\4.5.13\httpmime-4.5.13.jar = 1753325788240
 C:\_WORKSPACE\ITASOFT\Project\OFFICE\RnD\java-libs\apiware\src\main\java = 1753244414674
-C:\_WORKSPACE\ITASOFT\Project\OFFICE\RnD\java-libs\apiware\target\apidocs\allclasses-frame.html = 1753331633682
-C:\_WORKSPACE\ITASOFT\Project\OFFICE\RnD\java-libs\apiware\target\apidocs\allclasses-noframe.html = 1753331633684
-C:\_WORKSPACE\ITASOFT\Project\OFFICE\RnD\java-libs\apiware\target\apidocs\constant-values.html = 1753331633258
-C:\_WORKSPACE\ITASOFT\Project\OFFICE\RnD\java-libs\apiware\target\apidocs\deprecated-list.html = 1753331633678
-C:\_WORKSPACE\ITASOFT\Project\OFFICE\RnD\java-libs\apiware\target\apidocs\help-doc.html = 1753331633695
-C:\_WORKSPACE\ITASOFT\Project\OFFICE\RnD\java-libs\apiware\target\apidocs\index-all.html = 1753331633671
-C:\_WORKSPACE\ITASOFT\Project\OFFICE\RnD\java-libs\apiware\target\apidocs\index.html = 1753331633688
-C:\_WORKSPACE\ITASOFT\Project\OFFICE\RnD\java-libs\apiware\target\apidocs\overview-tree.html = 1753331633622
-C:\_WORKSPACE\ITASOFT\Project\OFFICE\RnD\java-libs\apiware\target\apidocs\package-list = 1753331633169
-C:\_WORKSPACE\ITASOFT\Project\OFFICE\RnD\java-libs\apiware\target\apidocs\script.js = 1753331633742
-C:\_WORKSPACE\ITASOFT\Project\OFFICE\RnD\java-libs\apiware\target\apidocs\stylesheet.css = 1753331633700
+C:\_WORKSPACE\ITASOFT\Project\OFFICE\RnD\java-libs\apiware\target\apidocs\allclasses-frame.html = 1753344014136
+C:\_WORKSPACE\ITASOFT\Project\OFFICE\RnD\java-libs\apiware\target\apidocs\allclasses-noframe.html = 1753344014138
+C:\_WORKSPACE\ITASOFT\Project\OFFICE\RnD\java-libs\apiware\target\apidocs\constant-values.html = 1753344013697
+C:\_WORKSPACE\ITASOFT\Project\OFFICE\RnD\java-libs\apiware\target\apidocs\deprecated-list.html = 1753344014133
+C:\_WORKSPACE\ITASOFT\Project\OFFICE\RnD\java-libs\apiware\target\apidocs\help-doc.html = 1753344014160
+C:\_WORKSPACE\ITASOFT\Project\OFFICE\RnD\java-libs\apiware\target\apidocs\index-all.html = 1753344014127
+C:\_WORKSPACE\ITASOFT\Project\OFFICE\RnD\java-libs\apiware\target\apidocs\index.html = 1753344014141
+C:\_WORKSPACE\ITASOFT\Project\OFFICE\RnD\java-libs\apiware\target\apidocs\overview-tree.html = 1753344013822
+C:\_WORKSPACE\ITASOFT\Project\OFFICE\RnD\java-libs\apiware\target\apidocs\package-list = 1753344013572
+C:\_WORKSPACE\ITASOFT\Project\OFFICE\RnD\java-libs\apiware\target\apidocs\script.js = 1753344014167
+C:\_WORKSPACE\ITASOFT\Project\OFFICE\RnD\java-libs\apiware\target\apidocs\stylesheet.css = 1753344014165

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="2" failures="0" name="id.co.itasoft.net.purwana.apiware.ApiwareTest" time="12.542" errors="0" skipped="0">
+<testsuite tests="2" failures="0" name="id.co.itasoft.net.purwana.apiware.ApiwareTest" time="7.577" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_144\jre\bin"/>
@@ -66,6 +66,6 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="id.co.itasoft.net.purwana.apiware.ApiwareTest" name="testAccountInquiryInternal" time="8.406"/>
-  <testcase classname="id.co.itasoft.net.purwana.apiware.ApiwareTest" name="testBalanceInquiry" time="4.136"/>
+  <testcase classname="id.co.itasoft.net.purwana.apiware.ApiwareTest" name="testAccountInquiryInternal" time="5.048"/>
+  <testcase classname="id.co.itasoft.net.purwana.apiware.ApiwareTest" name="testBalanceInquiry" time="2.529"/>
 </testsuite>
