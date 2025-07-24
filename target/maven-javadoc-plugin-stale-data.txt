@@ -1,0 +1,52 @@
+@options
+@packages
+@argfile
+-classpath
+'C:/Users/User/.m2/repository/org/json/json/20230227/json-20230227.jar;C:/Users/User/.m2/repository/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar;C:/Users/User/.m2/repository/org/apache/httpcomponents/httpcore/4.4.13/httpcore-4.4.13.jar;C:/Users/User/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar;C:/Users/User/.m2/repository/commons-codec/commons-codec/1.11/commons-codec-1.11.jar;C:/Users/User/.m2/repository/org/apache/httpcomponents/httpmime/4.5.13/httpmime-4.5.13.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/_WORKSPACE/ITASOFT/Project/OFFICE/RnD/java-libs/apiware/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/_WORKSPACE/ITASOFT/Project/OFFICE/RnD/java-libs/apiware/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Apiware 1.0.1 API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/_WORKSPACE/ITASOFT/Project/OFFICE/RnD/java-libs/apiware/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Apiware 1.0.1 API'
+id.co.itasoft.net.purwana.apiware
+'C:/_WORKSPACE/ITASOFT/Project/OFFICE/RnD/java-libs/apiware/src/main/java/id/co/itasoft/net/purwana/apiware/Apiware.java'
+'C:/_WORKSPACE/ITASOFT/Project/OFFICE/RnD/java-libs/apiware/src/main/java/id/co/itasoft/net/purwana/apiware/ApiwareRequest.java'
+'C:/_WORKSPACE/ITASOFT/Project/OFFICE/RnD/java-libs/apiware/src/main/java/id/co/itasoft/net/purwana/apiware/ApiwareResponse.java'
+'C:/_WORKSPACE/ITASOFT/Project/OFFICE/RnD/java-libs/apiware/src/main/java/id/co/itasoft/net/purwana/apiware/ApiwareTokenConfig.java'
+C:\Users\User\.m2\repository\org\json\json\20230227\json-20230227.jar = 1690432155686
+C:\Users\User\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar = 1646979999577
+C:\Users\User\.m2\repository\org\apache\httpcomponents\httpcore\4.4.13\httpcore-4.4.13.jar = 1646979999992
+C:\Users\User\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar = 1438598762000
+C:\Users\User\.m2\repository\commons-codec\commons-codec\1.11\commons-codec-1.11.jar = 1646979999474
+C:\Users\User\.m2\repository\org\apache\httpcomponents\httpmime\4.5.13\httpmime-4.5.13.jar = 1753325788240
+C:\_WORKSPACE\ITASOFT\Project\OFFICE\RnD\java-libs\apiware\src\main\java = 1753244414674
+C:\_WORKSPACE\ITASOFT\Project\OFFICE\RnD\java-libs\apiware\target\apidocs\allclasses-frame.html = 1753326453956
+C:\_WORKSPACE\ITASOFT\Project\OFFICE\RnD\java-libs\apiware\target\apidocs\allclasses-noframe.html = 1753326453959
+C:\_WORKSPACE\ITASOFT\Project\OFFICE\RnD\java-libs\apiware\target\apidocs\constant-values.html = 1753326453576
+C:\_WORKSPACE\ITASOFT\Project\OFFICE\RnD\java-libs\apiware\target\apidocs\deprecated-list.html = 1753326453953
+C:\_WORKSPACE\ITASOFT\Project\OFFICE\RnD\java-libs\apiware\target\apidocs\help-doc.html = 1753326454033
+C:\_WORKSPACE\ITASOFT\Project\OFFICE\RnD\java-libs\apiware\target\apidocs\index-all.html = 1753326453942
+C:\_WORKSPACE\ITASOFT\Project\OFFICE\RnD\java-libs\apiware\target\apidocs\index.html = 1753326453962
+C:\_WORKSPACE\ITASOFT\Project\OFFICE\RnD\java-libs\apiware\target\apidocs\overview-tree.html = 1753326453916
+C:\_WORKSPACE\ITASOFT\Project\OFFICE\RnD\java-libs\apiware\target\apidocs\package-list = 1753326453444
+C:\_WORKSPACE\ITASOFT\Project\OFFICE\RnD\java-libs\apiware\target\apidocs\script.js = 1753326454079
+C:\_WORKSPACE\ITASOFT\Project\OFFICE\RnD\java-libs\apiware\target\apidocs\stylesheet.css = 1753326454038
