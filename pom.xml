@@ -8,17 +8,17 @@
 
     <groupId>id.co.itasoft.net.purwana.apiware</groupId>
     <artifactId>apiware</artifactId>
-    <version>1.0.1</version>
+    <version>1.0.2</version>
     <packaging>jar</packaging>
 
     <name>Apiware</name>
-    <description>A lightweight Postman-like API engine with Encapsulated Request Token</description>
+    <description>A lightweight Lib for Postman-like API engine with Encapsulated Request Token</description>
     <url>https://github.com/PurwanaNet/apiware</url> 
 
     <licenses>
         <license>
-            <name>MIT License</name>
-            <url>https://opensource.org/licenses/MIT</url>
+            <name>Creative Commons Attribution-ShareAlike 4.0 International</name>
+            <url>https://creativecommons.org/licenses/by-sa/4.0/</url>
         </license>
     </licenses>
 

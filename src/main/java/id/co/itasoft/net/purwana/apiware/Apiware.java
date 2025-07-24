@@ -33,7 +33,7 @@ public class Apiware {
     private String token;
     private ApiwareTokenConfig tokenConfig;
 
-    Apiware(ApiwareTokenConfig tokenConfig) {
+    public Apiware(ApiwareTokenConfig tokenConfig) {
         this.tokenConfig = tokenConfig;
     }
 
@@ -54,7 +54,6 @@ public class Apiware {
         ApiwareResponse response = sendRequest(tokenRequest, false, requiredFieldsForGenerateToken);
 
         //System.out.println("response :" + response.getBody());
-
         JSONObject json = new JSONObject(response.getBody());
         return json.getString(tokenConfig.getRetrievedTokenFieldFromJSON());
     }
